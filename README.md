@@ -1,4 +1,5 @@
 # Encryption And Decryption
+(https://img.shields.io/badge/-C-blueviolet)
 
 ![Project Image](https://miro.medium.com/max/700/1*jOo0OygE9C9_r11g0tp_Aw.png)
 
