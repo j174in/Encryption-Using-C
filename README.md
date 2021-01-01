@@ -37,17 +37,17 @@ PS:This program is under development for better algorithm and a GUI interface.
 
 #### Installation
 
--Clone the repository to your computer
-	-git clone 'url'
--Change the directory to the clone repository
-	-Open terminal
-	-change directory using 
-	  -cd /directory
--Run the program using gcc complier in the terminal
-	-gcc encodeanddecode.c
-	-Select encode/decode
-	-Enter the sentence
-	-Result will be provided for the choice
+####-Clone the repository to your computer
+`git clone 'url'`
+####Change the directory to the clone repository
+####Open terminal
+####change directory using 
+`cd /directory`
+####Run the program using gcc complier in the terminal
+`gcc encodeanddecode.c`
+####Select encode/decode
+####Enter the sentence
+####Result will be provided for the choice
 ---
 
 ## References
@@ -86,7 +86,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/defaultRectr0)
+- Twitter - [@defaultRectr0](https://twitter.com/defaultRectr0)
 - LinkedIn - [Jithin Jose](https://www.linkedin.com/in/jithinjosesec)
 
 [Back To The Top](#read-me-template)
