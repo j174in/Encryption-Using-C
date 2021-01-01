@@ -47,7 +47,7 @@ PS:This program is under development for better algorithm and a GUI interface.
 ---
 
 ## References
-The project picture ![Here](https://miro.medium.com/max/700/1*jOo0OygE9C9_r11g0tp_Aw.png)
+The project picture is from [Here](https://miro.medium.com/max/700/1*jOo0OygE9C9_r11g0tp_Aw.png)
 [Back To The Top](#encryption-and-decryption)
 
 ---
