@@ -40,7 +40,7 @@ PS:This program is under development for better algorithm and a GUI interface.
 
 `git clone 'url'`
 
-`cd /directory`
+`cd /yourdirectory`
 
 `gcc encodeanddecode.c`
 
@@ -48,6 +48,8 @@ PS:This program is under development for better algorithm and a GUI interface.
 
 ## References
 The project picture is from [Here](https://miro.medium.com/max/700/1*jOo0OygE9C9_r11g0tp_Aw.png)
+
+
 [Back To The Top](#encryption-and-decryption)
 
 ---
@@ -76,7 +78,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#encryption-and-decryption
+[Back To The Top](#encryption-and-decryption)
 
 ---
 
